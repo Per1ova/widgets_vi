@@ -82,7 +82,7 @@ class Home extends StatelessWidget {
           color: Colors.amber,
           child: Center(
             child: Text(
-              'Settings Page',
+              'Home Page',
               style: TextStyle(fontSize: 50, color: Colors.white, shadows: [
                 Shadow(offset: Offset(2, 2), blurRadius: 4, color: Colors.black)
               ]),
